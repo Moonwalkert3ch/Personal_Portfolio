@@ -1,5 +1,4 @@
 ## Rachael Bradford Personal WebPage
-
 This is my personal portfolio project.
 
 ## Author 
