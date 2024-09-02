@@ -160,7 +160,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #00FFFF;
   margin: 0 auto;
 }
 
@@ -179,7 +179,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #00ffff;
   width: 100px;
   bottom: -12px;
 }
@@ -423,6 +423,7 @@ a:hover {
   color: #fff;
   text-transform: uppercase;
   font-weight: 600;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .navbar-b.navbar-trans .nav-link:before,
@@ -626,11 +627,13 @@ a:hover {
   color: #fff;
   font-weight: 600;
   font-size: 3rem;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .intro .intro-subtitle {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 300;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .intro .text-slider-items {
@@ -714,8 +717,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
-  box-shadow: 0 0 0 10px #cde1f8;
+  background-color: #00FFFF;
+  box-shadow: 0 0 0 10px #2b2e31;
 }
 
 .service-box .service-ico {
@@ -763,6 +766,12 @@ a:hover {
   font-size: 2rem;
   margin-bottom: 0;
 }
+
+/*--------------------------------------------------------------
+# Resume Section
+--------------------------------------------------------------*/
+
+
 
 /*======================================
 //--//-->   PORTFOLIO
