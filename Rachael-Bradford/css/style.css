@@ -307,7 +307,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: #00ffff;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -486,7 +486,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #0078ff;
+  background-color: #00ffff;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
@@ -520,6 +520,10 @@ a:hover {
   -webkit-transform: translate3d(0px, 0px, 0px);
   transform: translate3d(0px, 0px, 0px);
   visibility: visible !important;
+}
+
+.navbar-brand #logo-name {
+  position: relative;
 }
 
 .navbar-b .dropdown-menu {
@@ -595,6 +599,11 @@ a:hover {
   -webkit-transform: rotate(-135deg);
   transform: rotate(-135deg);
   opacity: 0.9;
+}
+
+/* planet logo */
+.ion-planet {
+  color: #00ffff;
 }
 
 /*======================================
